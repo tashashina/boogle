@@ -1,0 +1,121 @@
+.content {
+  margin: 0 auto;
+  width: 600px;
+}
+.slika {
+  text-align: center;
+}
+.slika img {
+  margin-top: 50px;
+  width: 200px;
+}
+.naslov {
+  width: 600px;
+  font-family: helvetica, Arial, sans-serif;
+  text-align: center;
+  padding: 5px 0px;
+}
+ p.slogan {
+   font-size: 48px;
+   margin-top: 10px;
+   margin-bottom: 0;
+}
+p.vpis {
+   font-size: 24px;
+}
+.vstopno-okno {
+  border-bottom: 2px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  width: 350px;
+  height: 300px;
+  background-color: #f2f2f2;
+  text-align: center;
+  margin:auto;
+}
+.vstopno-okno img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 1px solid lightgrey;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.vnos-maila {
+  width: 215px;
+  height: 28px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  background-color: lightyellow;
+  border: 1px solid lightgrey;
+  padding-left: 7px;
+}
+.next {
+  width: 225px;
+  height: 28px;
+  text-align: center;
+  background-color: blue;
+  border: 1px solid blue;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.need-help {
+  width: 225px;
+  text-align: right;
+  color: blue;
+  font-size: 14px;
+  margin: auto;
+  padding-top: 10px;
+}
+.content2 {
+  width: 350px
+  margin:auto;
+}
+.button {
+  color: blue;
+  width:100px;
+  margin:auto;
+  padding: 20px;
+}
+.slogan2{
+  width: 300px;
+  margin:auto;
+  padding: 10px 0px;
+}
+.iconsmenu {
+  margin: auto;
+  width: 350px;
+  text-align: center;
+}
+.icon {
+  margin: auto;
+  width:16px;
+  display: inline;
+}
+.footer{
+  border-top: 1px solid #e4e4e4;
+  background-color: #f2f2f2;;
+  position: fixed;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+}
+.fleft {
+  float: left;
+  padding: 10px;
+}
+.fright {
+  float: right;
+  padding: 10px 30px;
+}
+.footer a {
+  padding: 0 12px;
+  text-decoration: none;
+  color: gray;
+  font-family: arial, sans-serif;
+  font-size: small;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
